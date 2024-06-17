@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React/static/css/main.de1a6b0b.css",
-    "main.js": "/React/static/js/main.a2e1d6d3.js",
-    "static/media/savings.svg": "/React/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
-    "index.html": "/React/index.html",
-    "static/media/loading.svg": "/React/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
-    "main.de1a6b0b.css.map": "/React/static/css/main.de1a6b0b.css.map",
-    "main.a2e1d6d3.js.map": "/React/static/js/main.a2e1d6d3.js.map"
+    "main.css": "/CrudReact/static/css/main.de1a6b0b.css",
+    "main.js": "/CrudReact/static/js/main.b0131b83.js",
+    "static/media/savings.svg": "/CrudReact/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "/CrudReact/index.html",
+    "static/media/loading.svg": "/CrudReact/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
+    "main.de1a6b0b.css.map": "/CrudReact/static/css/main.de1a6b0b.css.map",
+    "main.b0131b83.js.map": "/CrudReact/static/js/main.b0131b83.js.map"
   },
   "entrypoints": [
     "static/css/main.de1a6b0b.css",
-    "static/js/main.a2e1d6d3.js"
+    "static/js/main.b0131b83.js"
   ]
 }
